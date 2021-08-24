@@ -3,7 +3,7 @@
 # 初期設定
 npm init
 
-npm install typescript
+npm install typescript or [sudo apt install node-typescript]
 
 # 実行方法
  tsc ファイル名.ts　※Jsファイルは出てきます。
